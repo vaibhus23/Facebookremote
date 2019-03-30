@@ -5,6 +5,7 @@ public class Hello {
 		System.out.println("Hello World");
 		System.out.println("my first commit");
 		System.out.println("my second commit");
+		System.out.println("dev 2");
 
 	}
 
